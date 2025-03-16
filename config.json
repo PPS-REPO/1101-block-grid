@@ -142,5 +142,6 @@
     "versions": {
         "config": 1,
         "repository": 1
-    }
+    },
+    "deploy_uuid": "27586a4b-acac-43bb-8f3f-afa9d26bfc79"
 }
