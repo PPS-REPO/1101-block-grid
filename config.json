@@ -1,13 +1,13 @@
 {
-    "problem_title": "a + b",
+    "problem_title": "격자 막기",
     "problem_type": "stdio",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
     "validator": "validator.cc",
     "validator_language": "cpp11",
-    "subtask": false,
+    "subtask": true,
     "limits": {
-        "time": 1000,
+        "time": 1,
         "memory": 134217728,
         "factor": {
             "py3": {
