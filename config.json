@@ -4,14 +4,14 @@
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
     "validator": "validator.cc",
-    "validator_language": "pypy3",
-    "subtask": true,
+    "validator_language": "cpp11",
+    "subtask": false,
     "limits": {
         "time": 100,
         "memory": 134217728,
         "factor": {
             "py3": {
-                "time": 100,
+                "time": 0,
                 "memory": 268435456
             }
         }
